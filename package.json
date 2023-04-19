@@ -1,0 +1,29 @@
+{
+    "name": "replup",
+    "version": "0.0.2",
+    "description": "Don't let your repl go to sleep! ",
+    "main": "index.js",
+    "module": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/birajrai/replup.git"
+    },
+    "keywords": [
+      "replit",
+      "repl",
+      "express",
+      "api",
+      "server",
+      "uptime"
+    ],
+    "author": "birajrai",
+    "bugs": {
+      "url": "https://github.com/birajrai/replup/issues"
+    },
+    "homepage": "https://github.com/birajrai/replup#readme",
+    "devDependencies": {},
+    "license": "MIT"
+  }
